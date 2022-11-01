@@ -1,4 +1,4 @@
-package me.seohuipark.noblewaybackend.image.service;
+package me.seohuipark.noblewaybackend.business.image.service;
 
 import org.springframework.stereotype.Service;
 
